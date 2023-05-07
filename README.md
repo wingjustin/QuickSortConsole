@@ -31,4 +31,10 @@
 <br>
 <li>進入下一層遞迴時可以忽略中間區域,加快速度</li>
 </ul>
+
+<div>reference :</div>
+<ul>
+  <li>https://blog.csdn.net/qq_29110265/article/details/83502450</li>
+  <li>https://blog.csdn.net/Bob__yuan/article/details/98782859</li>
+  </ul>
 </p>
